@@ -9,9 +9,9 @@ It includes basic to intermediate programs covering core Python concepts like lo
 
 ## 👨‍💻 Intern Details
 
-* **Name:** Piyush Soni
+* **Name:** Prince soni
 * **Course:** MCA
-* **Semester:** 2nd / 3rd
+* **Semester:** 4th
 * **Technology:** Python
 
 ---
